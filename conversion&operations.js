@@ -45,9 +45,67 @@
 // "ed3w" = true
 
 
-let number = 23
+// let number = 23
 
-let stringNumber = String(number)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+// let stringNumber = String(number)
+// console.log(stringNumber);
+// console.log(typeof stringNumber);
 
+
+//****************************** OPERATIONS******************************************************************************/
+
+// let value = 3
+// let negvalue = -value
+// console.log(negvalue);
+
+//Operations:
+
+//+, -,/, **
+
+console.log(2**3);
+
+let greet = "hello"
+let userName = " Dewang"
+console.log(greet + userName);
+
+console.log(1+2);
+
+let num =1
+let lol = "2"
+let tol = num + lol
+console.log(typeof tol);
+
+console.log(1+"2");
+console.log("1"+2);
+console.log("1"+"2");
+
+console.log(1+2);
+console.log(1+"2");
+console.log("1"+2);
+console.log("1"+"2");
+console.log(1+4+"2");
+
+
+console.log((3+4)*4);
+
+
+
+console.log(true);
+console.log(+true);
+
+// let num1, num2 ,num3
+// num1 = num2 = num3 = 6
+
+// console.log(num1);
+
+let userName1 = "Dewang"
+let password = 2345
+let accountId = 123456789
+let phoneNumber = 1234567876543
+
+
+console.table([userName1,password,accountId,phoneNumber]);
+
+
+
+ 
