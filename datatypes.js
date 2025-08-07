@@ -39,3 +39,11 @@ const myfunction  = function() {
 }
 
 console.log(typeof myfunction);
+
+
+
+// How Memory Work
+// Types of Memory: stack & Heap
+
+// stack => Primitve
+// Heap => Non Primitive
