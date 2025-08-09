@@ -24,3 +24,10 @@ console.log(url.replace('%20', '-'));
 let myName = "Dewang Singh"
 console.log(myName.split('e'));   // Split work by spiting the string into sub string by using the single word match
 
+
+console.log(url.includes('dewang')); // use to search string is preset in the url or not
+
+
+
+
+
